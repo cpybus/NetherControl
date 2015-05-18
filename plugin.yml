@@ -1,0 +1,12 @@
+name: NetherControl
+main: me.chris.NetherControl.NetherControlMain
+version: 1.0
+description: A plugin.
+depend: [Vault]
+commands:
+    nc:
+        description: This command is the base command for the entire plugin.
+        usage: /<command>
+    nethercontrol:
+        description: This is the same thing as using pt, except longer... So pretty useless.
+        usage: /<command>
